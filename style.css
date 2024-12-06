@@ -1,0 +1,22 @@
+header_div
+{
+    background-color: dodgerblue;
+}
+p
+{
+    font-style: italic;
+    font-weight: 900;
+    font-display:inherit;
+    font-size:larger;
+}
+main_div
+{
+    start
+    {
+        font-style: oblique;
+    
+        margin-top: 30cm;
+        font-weight: 900;
+        width: 5cm;
+    }
+}
